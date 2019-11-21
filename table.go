@@ -5,8 +5,8 @@ package termtables
 import (
 	"strings"
 
-	"github.com/geoffreybauduin/termtables/locale"
-	"github.com/geoffreybauduin/termtables/term"
+	"github.com/mynameiscfed/termtables/locale"
+	"github.com/mynameiscfed/termtables/term"
 )
 
 // MaxColumns represents the maximum number of columns that are available for
